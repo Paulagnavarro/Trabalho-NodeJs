@@ -1,0 +1,90 @@
+[
+    {
+    "codigo": 1,
+    "nome": "João",
+    "sobrenome": "Silva",
+    "data_nascimento": "1985-09-10",
+    "telefone": "33333333",
+    "endereco": "Rua das Flores, 123",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "status": true
+  },
+  {
+    "codigo": 2,
+    "nome": "Maria",
+    "sobrenome": "Souza",
+    "data_nascimento": "1990-03-25",
+    "telefone": "44444444",
+    "endereco": "Avenida dos Anjos, 567",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "status": false
+  },
+  {
+    "codigo": 3,
+    "nome": "Pedro",
+    "sobrenome": "Oliveira",
+    "data_nascimento": "1998-07-12",
+    "telefone": "55555555",
+    "endereco": "Rua das Palmeiras, 789",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "status": true
+  }, 
+  {
+    "codigo": 4,
+    "nome": "Lucas",
+    "sobrenome": "Costa",
+    "data_nascimento": "1987-11-30",
+    "telefone": "77777777",
+    "endereco": "Rua dos Pássaros, 456",
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "status": true
+  },
+  {
+    "codigo": 5,
+    "nome": "Isabela",
+    "sobrenome": "Ferreira",
+    "data_nascimento": "1993-12-05",
+    "telefone": "88888888",
+    "endereco": "Rua das Gaivotas, 987",
+    "cidade": "Salvador",
+    "estado": "BA",
+    "status": false
+  },
+  {
+    "codigo": 6,
+    "nome": "Rafaela",
+    "sobrenome": "Lima",
+    "data_nascimento": "1996-08-20",
+    "telefone": "99999999",
+    "endereco": "Avenida das Estrelas, 654",
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "status": true
+  },
+  {
+    "codigo": 7,
+    "nome": "Carlos",
+    "sobrenome": "Santos",
+    "data_nascimento": "1991-03-15",
+    "telefone": "10101010",
+    "endereco": "Rua dos Girassóis, 321",
+    "cidade": "Recife",
+    "estado": "PE",
+    "status": true
+  },
+  {
+    "codigo": 8,
+    "nome": "Juliana",
+    "sobrenome": "Costa",
+    "data_nascimento": "1994-06-28",
+    "telefone": "11112222",
+    "endereco": "Rua das Rosas, 456",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "status": true
+  }
+]
